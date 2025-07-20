@@ -5,7 +5,7 @@
 - WSLの有効化ができる（setup_pc.ps1）
 - Ubuntuインストールができる（setup_pc.ps1）
 - WSLとaptのプロキシ設定ができる（setup_wsl.ps1）
-- VSCodeで使用してた拡張機能の推奨を得られる
+- VSCodeで使用してた拡張機能の推奨を得られる（.vscode/extentions.json）
 
 ## 手順
 1. このリポジトリをクローン
