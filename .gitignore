@@ -1,0 +1,2 @@
+# setup_pc.ps1で生成されるログファイルを無視
+setup_log_*.log
